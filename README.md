@@ -52,3 +52,5 @@ export default tseslint.config({
   },
 })
 ```
+
+# API = https://equran.id/api/v2/surat
