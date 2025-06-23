@@ -9,7 +9,11 @@ function Hero() {
       <div className="relative z-10 px-5 pt-8 flex flex-col gap-8">
         <Profile
           greeting="Good Evening"
+<<<<<<< HEAD
           name="Damassdev 👋🏻 "
+=======
+          name="Mareta Ayu  👋🏻 "
+>>>>>>> 1fd50ac1fa043f4d32b43a0411746cb3cacc7477
           avatar={Photo}
         />
         <Verse
